@@ -1,0 +1,22 @@
+# Python byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# Environment variables & personal device config
+.env
+.env.local
+
+# Personal debug screenshots & raw captures (privacy protection)
+.debug_captures/
+*_screen.png
+screen.png
+deploy_screen.png
+stamina_screen.png
+
+# OS metadata
+.DS_Store
+Thumbs.db
